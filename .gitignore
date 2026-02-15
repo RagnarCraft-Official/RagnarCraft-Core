@@ -1,0 +1,15 @@
+# PROTECT THE VAULT: NEVER REMOVE THESE
+.env
+*.env
+keys.txt
+
+# PYTHON HOUSEKEEPING
+__pycache__/
+*.pyc
+.venv/
+
+# IP PROTECTION: SOLO DESIGNER ASSETS
+/internal/
+*.psd
+*.ai
+/marketing/high_res/
